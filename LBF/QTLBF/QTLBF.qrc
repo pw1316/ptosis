@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/QTLBF">
+        <file>Resources/defaultImg.png</file>
+        <file>Resources/icons/play.png</file>
+        <file>Resources/icons/pause.png</file>
+        <file>Resources/icons/stop.png</file>
+    </qresource>
+</RCC>
